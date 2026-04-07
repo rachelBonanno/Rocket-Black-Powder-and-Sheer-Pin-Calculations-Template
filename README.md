@@ -10,3 +10,7 @@ When using the sheet you only need to input values into the blue boxes (all labl
 <img width="2200" height="1700" alt="Rocket Black Powder and Sheer Pin Calculations (1)-1" src="https://github.com/user-attachments/assets/74ae9a2e-c755-40f6-aab3-cd01ced7d764" />
 
 ## The Rocket the Example Calculations Were Done For
+<img width="750" height="1334" alt="image" src="https://github.com/user-attachments/assets/17c29d3d-356f-4ce5-8955-48c1948c4679" />
+<img width="1737" height="2048" alt="image" src="https://github.com/user-attachments/assets/934b94f5-7a39-4e75-8745-6bc5779b37e4" />
+<img width="1215" height="1620" alt="image" src="https://github.com/user-attachments/assets/06a9784a-41ef-44dc-b7db-53477b563a15" />
+
